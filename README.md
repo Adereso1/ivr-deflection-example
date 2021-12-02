@@ -1,4 +1,5 @@
 # IVR Deflection Example
 
-## Deploy using Twilio CLI
+## Deploy
+Using [Twilio Serverless Toolkit](https://www.twilio.com/docs/labs/serverless-toolkit):
 	twilio serverless:deploy
